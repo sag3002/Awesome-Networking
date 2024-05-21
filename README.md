@@ -19,3 +19,10 @@ Awesome things in networking that I discovered
 **DroidCam**: Use phone as webcam (freemium)
 
 **GoodByeDPIGUI**: Bypass ISP censorship without VPN
+
+Faster Network:
+- use dns benchmark tools to find best dns
+- under CG-NAT? get static/dunamic public ipv4, if not possible then ipv6. latency will be reduced & u can expose services to the internet(like sunshine using upnp, it will be faster than zerotier)
+- run bufferboard test. enabling QOS on my cheap router changed grade from C to A. Though buying a better router or openwrt etc is a stronger fix.
+- Windows config: ublock origin ofc, firewall things like widgets, xbox, etc.
+- use wired ethernet, make sure keep fiber cable doesn't bend too much, upgrade to newer wifi versions, router placement
